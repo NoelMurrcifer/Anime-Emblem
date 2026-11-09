@@ -16,7 +16,7 @@
     <div class="landing-logo-wrap">
       <img src="img/logo.png" alt="Anime Emblem Logo" class="landing-logo-img">
     </div>
-    <p class="landing-desc">Hành trình bảo vệ vương quyền — Định mệnh hội ngộ</p>
+    <p class="landing-desc">Hành trình bảo vệ vương quyền — Định mệnh hộidhkasldklasj ngộ</p>
     
     <button class="btn-play-game" id="btnStartGame" onclick="handleStartGame()">
       <span class="btn-shine"></span>
