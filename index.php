@@ -32,7 +32,7 @@
   <div id="adminCheatBar" class="admin-cheat-bar" style="display:none;">
     <span>⚡ <strong>ADMIN CONSOLE:</strong></span>
     <a href="admin.php" class="admin-btn highlight" style="text-decoration:none; display:inline-flex; align-items:center; gap:4px;">
-      🛠️ MỞ ADMIN PANEL
+      🛠️ MỞ ADMIN PANELdsadasdas
     </a>
     <button class="admin-btn" onclick="adminAddGems(5000)">+5,000 💎</button>
     <button class="admin-btn" onclick="adminAddGems(50000)">+50,000 💎</button>
